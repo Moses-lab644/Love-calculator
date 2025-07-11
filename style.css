@@ -1,0 +1,37 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: pink;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  display: inline-block;
+max-width: 400px;   /* same sixe on all screen */
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px  20px;
+  background: hotpink;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+#result {
+  margin-top: 20px;
+  font-size: 24px;
+  color: red;
+}
